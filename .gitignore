@@ -1,6 +1,9 @@
 # Visual Studio
 .vs/
 
+# Rider
+.idea/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
