@@ -25,7 +25,7 @@ RUN
 1. Everyone starts with 10MDD! 1MDD is relevant to keeping your mortgage paid for a month.
 2. You can use anything within your control to refuctor the code base.
 3. The Expected Assert within [HelloWorldTests.cs](HelloWorld.Tests/HelloWorldTests.cs) test must not be changed. The test can only be changed to accomodate your implementation and must still pass.
-4. If you hit 0MDD you are out.
+4. If you hit 0MDD (or below) you may continue as you could make money back, but you'll never make it as a mercenary. 
 
 ## £$€₼¥₱₦ 
 
